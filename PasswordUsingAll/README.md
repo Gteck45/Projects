@@ -12,11 +12,7 @@
 
 PassOP is a secure, user-friendly password manager that helps you store and manage your website credentials. With PassOP, you can easily save, edit, and delete your passwords while having quick access to them whenever needed.
 
-<div align="center">
-  <!-- Add a screenshot of your application here -->
-  <!-- <img src="src/assets/screenshot.png" alt="PassOP Screenshot" width="80%" /> -->
-  <p><i>Add a screenshot of your application here for better visualization</i></p>
-</div>
+
 
 ## ✨ Features
 
